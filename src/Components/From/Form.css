@@ -1,0 +1,13 @@
+.border-bottom-only {
+    border-left: 0px !important;
+    border-top: 0px !important;
+    border-right: 0px !important;
+    border-bottom: 1px solid black !important;
+}
+
+.border-bottom-only:focus-visible {
+    border-left: 1px solid rgb(10, 139, 161) !important;
+    border-top: 1px solid rgb(10, 139, 161) !important;
+    border-right: 1px solid rgb(10, 139, 161) !important;
+    border-bottom: 1px solid rgb(10, 139, 161) !important;
+}
